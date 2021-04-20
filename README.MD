@@ -2,7 +2,9 @@
 
 ## Description
 
-Jest Another RPG application, is a node.js based game that is played in the terminal console. Jest Another RPG was built using object oriented programing (OOP) and Test-Driven Development (TDD), and has been consolidated and refactored using ES6 methodologies.
+Jest Another RPG application, is a node.js based game that is played in the terminal console. Each time the game runs, player is given random stats on health, strength, and agility, and player must combat mythological creates they come across during the game. Player must either attack or use a potion to supplement their health, strength or agility. Game plays until either player wins by defeating all creatures, runs out of potions, or is defeated.
+
+Jest Another RPG was built using object oriented programing (OOP) and Test-Driven Development (TDD), and has been consolidated and refactored using ES6 methodologies.
 
 ## Languages
 

@@ -41,5 +41,5 @@ Jest Another RPG application, is a node.js based game that is played in the term
 5.) After dependencies are installed, type `node app` in the terminal window, and application will run
 
 ## Referenced Image
-<img src="./assets/images/RPG-start" alt="reference image of the game console">
-<img src="./assets/images/RPG-fight" alt="reference image of the RPG fight sequence">
+<img src="./assets/images/RPG-start.png" alt="reference image of the game console">
+<img src="./assets/images/RPG-fight.png" alt="reference image of the RPG fight sequence">
